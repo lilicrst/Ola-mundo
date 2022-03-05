@@ -36,5 +36,13 @@ const text2 = document.createElement('h4')
 text2.innerHTML = "Continua..."
 body.append(text2) //adiciona como filho DEPOIS de tudo no body
 
+// EVENTO ao clicar
+function clique(){
+    console.log("clicou")
+}
 
+// EVENTO ao digitar
+inputName.onkeyup = function(){
+    console.log("teclou")
+}
 
