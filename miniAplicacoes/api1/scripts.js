@@ -46,3 +46,5 @@ inputName.onkeyup = function(){
     console.log("teclou")
 }
 
+// EVENTO pelo javaScript
+element.addEventListener('click', clique)
