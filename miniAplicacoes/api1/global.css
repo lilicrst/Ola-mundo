@@ -1,0 +1,27 @@
+* {
+    color: white;
+    margin: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+body {
+    background-color: rgb(36, 34, 34);
+}
+
+h2 {
+    border: 1px solid;
+    margin: 10px;
+    padding: 40px;
+    text-align: center;
+    color: darkseagreen;
+    font-family: 'Oswald', sans-serif;
+}
+
+input {
+    color:rgb(36, 34, 34)
+    
+}
+
+h4 {
+    color: white;
+}
